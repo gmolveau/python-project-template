@@ -19,6 +19,7 @@
 - [typer](https://github.com/tiangolo/typer) / [click](https://github.com/pallets/click/)
 - [fastapi](https://github.com/tiangolo/fastapi) / [flask](https://github.com/pallets/flask/)
 - [pydantic](https://github.com/samuelcolvin/pydantic/) / [marshmallow](https://github.com/marshmallow-code/marshmallow)
+- [radon](https://github.com/rubik/radon)
 
 ## VSCode configuration
 
@@ -29,4 +30,3 @@
 ## sources and inspirations
 
 - <https://python.plainenglish.io/a-python-project-checklist-91242b4a2ca3>
-- xxx

@@ -25,7 +25,9 @@ python3 -m pip download \
     pydantic \
     marshmallow \
     python-dotenv \
-    gunicorn
+    gunicorn \
+    radon \
+    pylama
 zip -r "$t.zip" "$t/"
 echo "done : $t.zip"
 # twine upload --skip-existing *
